@@ -20,6 +20,7 @@ public class ExplanationsFrame extends JFrame
 
 	{
 		textArea.setEditable(false);
+		textArea.append("\nHello players, this is our IDD project !\n\nThis little interactive game will make you go through all the revolution stages !\n\nSee if you know well the history of the revolution of your country !\n\nIn the game you'll have to reconstitute the events by their chronogical order !\n\nThe game will ask for how many retries do you want, don't worry !\n\n\n\nIf you're ready, press the \"Play\" button below and let's go !");
 	}
 
 	{
